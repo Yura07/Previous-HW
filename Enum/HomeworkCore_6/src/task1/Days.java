@@ -1,0 +1,5 @@
+package task1;
+
+public enum Days {
+    MONDAY,TUESDAY,WENDESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY;
+}
